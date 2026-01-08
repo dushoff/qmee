@@ -2,14 +2,27 @@
 
 current: target
 -include target.mk
-Ignore = target.mk
 
-vim_session:
-	bash -cl "vmt"
-
-## -include makestuff/perl.def
+-include makestuff/perl.def
 
 ######################################################################
+
+vim_session: 
+	bash -cl "vmt screens.list"
+
+screen_session: screens.update
+	$(MAKE) $(vscreens)
+
+Ignore += screenlog.32
+
+######################################################################
+
+## Identify defunct directories
+Ignore += time.tmp
+time.tmp: $(wildcard */Makefile)
+	ls -lt $^ > $@
+
+#####################################################################
 
 ### Makestuff
 
@@ -18,7 +31,6 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 
-## ln -s ../makestuff . ## Do this first if you want a linked makestuff
 Makefile: makestuff/00.stamp
 makestuff/%.stamp: | makestuff
 	- $(RM) makestuff/*.stamp
@@ -29,7 +41,9 @@ makestuff:
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
+-include makestuff/listdir.mk
+-include makestuff/screendir.mk
+-include makestuff/mkfiles.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
