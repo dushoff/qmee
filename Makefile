@@ -21,9 +21,15 @@ Ignore += screenlog.32
 
 Sources += repos.txt
 
+Ignore += repos.list
 repos.list: repos.txt list.pl
 	$(PUSH)
 
+Ignore += repos.listonly
+repos.listonly: repos.txt listonly.pl
+	$(PUSH)
+
+Ignore += repos.mk
 -include repos.mk
 repos.mk: repos.txt mk.pl
 	$(PUSH)
