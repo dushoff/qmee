@@ -1,7 +1,6 @@
 XX. p24: https://github.com/bbolker/QMEE_private_2024.git
 
-
-esingurcan: https://github.com/esingurcan/QMEE
+XX. esingurcan: https://github.com/esingurcan/QMEE
 
 sanjana-2699: https://github.com/sanjana-2699/BIO-708
 
