@@ -15,6 +15,8 @@ Sources += $(wildcard */*.rmd */*.Rmd)
 autopipeR = defined
 autoknit = defined
 
+Ignore += Ass*/*.html
+
 ######################################################################
 
 ## Assignment_Week_1/Assignment1.html: Assignment_Week_1/Assignment1.Rmd
