@@ -13,4 +13,4 @@ JezDalm: https://github.com/JezDalm/QMEE
 izip27: https://github.com/izip27/QMEE
 
 
-repos.list
+repos.list: repos.txt
