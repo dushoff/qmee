@@ -1,0 +1,8 @@
+use strict;
+use 5.10.0;
+
+while(<>){
+	chomp;
+	s|/.*||;
+	say "srepos += $_";
+}
