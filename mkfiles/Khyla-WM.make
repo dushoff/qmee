@@ -1,4 +1,4 @@
-## https://github.com/esingurcan/QMEE
+## This is a _linked_ (mkfile) Makefile for Khyla
 
 current: target
 -include target.mk
@@ -10,29 +10,14 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.R *.md *.rmd *.Rmd)
-Sources += $(wildcard */*.rmd */*.Rmd)
+Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
-autoknit = defined
-
-Ignore += Ass*/*.html
 
 ######################################################################
 
-## Assignment_Week_1/Assignment1.html: Assignment_Week_1/Assignment1.Rmd
-
-## Assignment_Week_1/README.Rmd
-
-
-## Did lots of debugging
-a1.r: Assignment_Week_1/Assignment1.Rmd
-	$(tangle_r)
-
-a1.Rout: a1.R
-	$(pipeR)
+## byssal_initial_calculations.Rout: byssal_initial_calculations.R
 
 ######################################################################
-
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
@@ -49,7 +34,6 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/pipeR.mk
--include makestuff/rmd.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

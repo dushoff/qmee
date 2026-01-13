@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for Isabella I.
 
 current: target
 -include target.mk
@@ -12,6 +12,8 @@ vim_session:
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
+
+## Assignment1.Rout: Assignment1.R
 
 ######################################################################
 

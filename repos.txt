@@ -15,3 +15,6 @@ SiyaoLibeta/QMEE
 jrosenbaum422/QMEE
 eKrysmanski/QMEE
 nemari1/QMEE
+Khyla-WM/QMEE
+nitachan/QMEE
+ThindAnmol/QMEE

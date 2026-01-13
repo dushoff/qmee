@@ -1,4 +1,4 @@
-## https://github.com/esingurcan/QMEE
+## This is a _linked_ (mkfile) Makefile for nitachan
 
 current: target
 -include target.mk
@@ -10,26 +10,12 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.R *.md *.rmd *.Rmd)
-Sources += $(wildcard */*.rmd */*.Rmd)
-autopipeR = defined
-autoknit = defined
-
-Ignore += Ass*/*.html
+## BIo708_assignment1_NC.Rout: BIo708_assignment1_NC.R
 
 ######################################################################
 
-## Assignment_Week_1/Assignment1.html: Assignment_Week_1/Assignment1.Rmd
-
-## Assignment_Week_1/README.Rmd
-
-
-## Did lots of debugging
-a1.r: Assignment_Week_1/Assignment1.Rmd
-	$(tangle_r)
-
-a1.Rout: a1.R
-	$(pipeR)
+Sources += $(wildcard *.R *.md *.rmd)
+autopipeR = defined
 
 ######################################################################
 
@@ -49,7 +35,6 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/pipeR.mk
--include makestuff/rmd.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

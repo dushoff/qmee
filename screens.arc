@@ -10,15 +10,19 @@ MalvaCerealis: https://github.com/MalvaCerealis/QMEE
 
 JezDalm: https://github.com/JezDalm/QMEE
 
-izip27: https://github.com/izip27/QMEE
+XX. izip27: https://github.com/izip27/QMEE
+izip27.vscreen
 
-acalexe: https://github.com/acalexe/QMEE
+XX. acalexe: https://github.com/acalexe/QMEE
+acalexe.vscreen
 
 victoriamaya: https://github.com/victoriamaya/QMEE
 
-ItsGuno: https://github.com/ItsGuno/QMEE2026
+XX. ItsGuno: https://github.com/ItsGuno/QMEE2026
+ItsGuno.vscreen
 
-atyker: https://github.com/atyker/QMEE
+XX. atyker: https://github.com/atyker/QMEE
+atyker.vscreen
 
 sux21: https://github.com/sux21/QMEE
 
@@ -30,9 +34,17 @@ SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
 
 jrosenbaum422: https://github.com/jrosenbaum422/QMEE
 
-eKrysmanski: https://github.com/eKrysmanski/QMEE
+XX. eKrysmanski: https://github.com/eKrysmanski/QMEE
 eKrysmanski.vscreen
 
 nemari1: https://github.com/nemari1/QMEE
+
+XX. Khyla-WM: https://github.com/Khyla-WM/QMEE
+Khyla-WM.vscreen
+
+XX. nitachan: https://github.com/nitachan/QMEE
+nitachan.vscreen
+
+ThindAnmol: https://github.com/ThindAnmol/QMEE
 
 repos.list: repos.txt
