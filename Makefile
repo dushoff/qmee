@@ -32,7 +32,7 @@ repos.listonly: repos.txt listonly.pl
 Ignore += repos.mk
 -include repos.mk
 mks = $(srepos:%=%.mkfile)
-## mks: $(mks)
+mks: $(mks)
 repos.mk: repos.txt mk.pl
 	$(PUSH)
 
