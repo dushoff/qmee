@@ -1,0 +1,42 @@
+## This is a _linked_ (mkfile) Makefile for Xingyuan Su (sux21)
+
+current: target
+-include target.mk
+
+# -include makestuff/perl.def
+
+vim_session:
+	bash -cl "vmt"
+
+######################################################################
+
+## week_1_assignment/week_1.Rout: week_1_assignment/week_1.R
+
+######################################################################
+
+Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard week*/*.R)
+autopipeR = defined
+
+######################################################################
+
+### Makestuff
+
+## Sources += $(wildcard *.mk)
+## include $(wildcard *.mk)
+
+Ignore += Makefile
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	ln -s ../makestuff .
+	ls makestuff/Makefile
+
+-include makestuff/os.mk
+
+-include makestuff/pipeR.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
+-include makestuff/projdir.mk
