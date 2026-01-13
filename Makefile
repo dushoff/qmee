@@ -35,7 +35,7 @@ repos.mk: repos.txt mk.pl
 	$(PUSH)
 
 mks = $(srepos:%=%.mkfile)
-## mks: $(mks)
+mks: $(mks)
 
 ######################################################################
 
