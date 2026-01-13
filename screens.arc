@@ -46,5 +46,6 @@ XX. nitachan: https://github.com/nitachan/QMEE
 nitachan.vscreen
 
 ThindAnmol: https://github.com/ThindAnmol/QMEE
+ThindAnmol.vscreen
 
 repos.list: repos.txt
