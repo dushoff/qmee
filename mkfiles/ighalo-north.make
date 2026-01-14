@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Maya Psaris
+## This is a _linked_ (mkfile) Makefile for …
 
 current: target
 -include target.mk
@@ -11,10 +11,7 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
-Sources += $(wildcard Home*/*.R)
 autopipeR = defined
-
-## Homework1/Assignment_1.Rout: Homework1/Assignment_1.R
 
 ######################################################################
 

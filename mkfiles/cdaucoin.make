@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Maya Psaris
+## This is a _linked_ (mkfile) Makefile for Courtney AuCoin
 
 current: target
 -include target.mk
@@ -11,10 +11,12 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
-Sources += $(wildcard Home*/*.R)
+Sources += $(wildcard scripts/*.R)
 autopipeR = defined
 
-## Homework1/Assignment_1.Rout: Homework1/Assignment_1.R
+Ignore += RFactorScore.csv
+RFactorScore.csv: scripts/week_one.Rout ;
+## scripts/week_one.Rout: scripts/week_one.R
 
 ######################################################################
 

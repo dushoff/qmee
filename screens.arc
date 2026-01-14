@@ -17,6 +17,7 @@ XX. acalexe: https://github.com/acalexe/QMEE
 acalexe.vscreen
 
 victoriamaya: https://github.com/victoriamaya/QMEE
+victoriamaya.vscreen
 
 XX. ItsGuno: https://github.com/ItsGuno/QMEE2026
 ItsGuno.vscreen
@@ -46,5 +47,11 @@ XX. nitachan: https://github.com/nitachan/QMEE
 nitachan.vscreen
 
 ThindAnmol: https://github.com/ThindAnmol/QMEE
+ThindAnmol.vscreen
+
+ighalo-north: https://github.com/ighalo-north/QMEE
+
+cdaucoin: https://github.com/cdaucoin/QMEE
+cdaucoin.vscreen
 
 repos.list: repos.txt

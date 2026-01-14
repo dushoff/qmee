@@ -18,3 +18,5 @@ nemari1/QMEE
 Khyla-WM/QMEE
 nitachan/QMEE
 ThindAnmol/QMEE
+ighalo-north/QMEE
+cdaucoin/QMEE

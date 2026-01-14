@@ -31,11 +31,10 @@ repos.listonly: repos.txt listonly.pl
 
 Ignore += repos.mk
 -include repos.mk
-repos.mk: repos.txt mk.pl
-	$(PUSH)
-
 mks = $(srepos:%=%.mkfile)
 mks: $(mks)
+repos.mk: repos.txt mk.pl
+	$(PUSH)
 
 ######################################################################
 
@@ -53,7 +52,7 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 
-Makefile: makestuff/00.stamp
+Makefile: makestuff/01.stamp
 makestuff/%.stamp: | makestuff
 	- $(RM) makestuff/*.stamp
 	cd makestuff && $(MAKE) pull

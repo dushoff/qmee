@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Maya Psaris
+## This is a _linked_ (mkfile) Makefile for Anmol
 
 current: target
 -include target.mk
@@ -10,11 +10,17 @@ vim_session:
 
 ######################################################################
 
+Ignore += Data/
+
 Sources += $(wildcard *.R *.md *.rmd)
-Sources += $(wildcard Home*/*.R)
 autopipeR = defined
 
-## Homework1/Assignment_1.Rout: Homework1/Assignment_1.R
+Assignment1.Rout: Assignment1.R | Data/Clean
+Data/Clean: | Data
+	$(mkdir)
+
+Data:
+	$(mkdir)
 
 ######################################################################
 
