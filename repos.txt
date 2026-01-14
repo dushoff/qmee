@@ -20,3 +20,7 @@ nitachan/QMEE
 ThindAnmol/QMEE
 ighalo-north/QMEE
 cdaucoin/QMEE
+Yasmin-9/QMEE
+gauthamvk/QMEE
+MattJaan/QMEE
+macned3/QMEE

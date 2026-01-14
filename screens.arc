@@ -28,8 +28,10 @@ atyker.vscreen
 sux21: https://github.com/sux21/QMEE
 
 haydensimm: https://github.com/haydensimm/QMEE
+haydensimm.vscreen
 
 ullrich-k: https://github.com/ullrich-k/QMEE
+ullrich-k.vscreen
 
 SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
 
@@ -53,5 +55,15 @@ ighalo-north: https://github.com/ighalo-north/QMEE
 
 cdaucoin: https://github.com/cdaucoin/QMEE
 cdaucoin.vscreen
+
+Yasmin-9: https://github.com/Yasmin-9/QMEE
+
+gauthamvk: https://github.com/gauthamvk/QMEE
+gauthamvk.vscreen
+
+MattJaan: https://github.com/MattJaan/QMEE
+
+macned3: https://github.com/macned3/QMEE
+
 
 repos.list: repos.txt

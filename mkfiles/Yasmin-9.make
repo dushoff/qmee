@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Hayden
+## This is a _linked_ (mkfile) Makefile for …
 
 current: target
 -include target.mk
@@ -10,13 +10,8 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.R *.md *.Rmd *.rmd)
-
-Ignore += *.html
-## Assignment_1_Script.html: Assignment_1_Script.Rmd 2025-01-20_181758_KILLIFISH_RESPIROMETRY1_JAN2.txt
-
+Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
-autoknit = defined
 
 ######################################################################
 
