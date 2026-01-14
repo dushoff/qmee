@@ -30,7 +30,7 @@ sux21: https://github.com/sux21/QMEE
 haydensimm: https://github.com/haydensimm/QMEE
 haydensimm.vscreen
 
-ullrich-k: https://github.com/ullrich-k/QMEE
+XX. ullrich-k: https://github.com/ullrich-k/QMEE
 ullrich-k.vscreen
 
 SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
