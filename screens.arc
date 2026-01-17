@@ -65,5 +65,6 @@ MattJaan: https://github.com/MattJaan/QMEE
 
 macned3: https://github.com/macned3/QMEE
 
+sarahhlivingston: https://github.com/sarahhlivingston/QMEE
 
 repos.list: repos.txt
