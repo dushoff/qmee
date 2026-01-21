@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for Molly D.
 
 current: target
 -include target.mk
@@ -6,12 +6,19 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard Ass*/*.R)
 autopipeR = defined
+
+Assignment_2/Assignment_2_.Rout: Assignment_2/Assignment_2_.R
+	$(rThere)
+
+Assignment_2/Assignment_2_RDS_script.Rout: Assignment_2/Assignment_2_RDS_script.R
+	$(rThere)
 
 ######################################################################
 
@@ -30,7 +37,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
--include makestuff/pipeR.mk
+-include makestuff/simpleR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Sanjana
+## This is a _linked_ (mkfile) Makefile for MattJaan
 
 current: target
 -include target.mk
@@ -6,15 +6,19 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt README.md"
+	bash -cl "vmt"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard Ass*/*.R)
 autopipeR = defined
 
-## Assignment2a.Rout: Assignment2a.R
-## git mv Assignment2b.r Assignment2b.R ##
+Assignment2/Assignment2_1.Rout: Assignment2/Assignment2_1.R
+	$(rThere)
+
+Assignment2/Assignment2_2.Rout: Assignment2/Assignment2_2.R
+	$(rThere)
 
 ######################################################################
 
@@ -33,7 +37,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
--include makestuff/pipeR.mk
+-include makestuff/simpleR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

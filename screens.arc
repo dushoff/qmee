@@ -3,8 +3,10 @@ XX. p24: https://github.com/bbolker/QMEE_private_2024.git
 XX. esingurcan: https://github.com/esingurcan/QMEE
 
 sanjana-2699: https://github.com/sanjana-2699/BIO-708
+sanjana-2699.vscreen
 
 mollyfuzhu-stack: https://github.com/mollyfuzhu-stack/QMEE
+mollyfuzhu-stack.vscreen
 
 MalvaCerealis: https://github.com/MalvaCerealis/QMEE
 
@@ -62,6 +64,7 @@ gauthamvk: https://github.com/gauthamvk/QMEE
 gauthamvk.vscreen
 
 MattJaan: https://github.com/MattJaan/QMEE
+MattJaan.vscreen
 
 macned3: https://github.com/macned3/QMEE
 
