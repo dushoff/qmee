@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for Jack R.
 
 current: target
 -include target.mk
@@ -11,7 +11,14 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard */scripts/*.R)
 autopipeR = defined
+
+data_cleaning.Rout: EXOC2_Sociability_Data/scripts/data_cleaning.R
+	$(rHere)
+
+sniff_plots.Rout: EXOC2_Sociability_Data/scripts/sniff_plots.R data_cleaning.Rout
+	$(rHere)
 
 ######################################################################
 
@@ -31,6 +38,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/pipeR.mk
+-include makestuff/simpleR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

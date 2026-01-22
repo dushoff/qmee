@@ -6,12 +6,16 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
+
+assignment_two_part_one.Rout: assignment_two_part_one.R
+
+assignment_two_part_two.Rout: assignment_two_part_two.R
 
 ######################################################################
 

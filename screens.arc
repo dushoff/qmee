@@ -38,6 +38,7 @@ ullrich-k.vscreen
 SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
 
 jrosenbaum422: https://github.com/jrosenbaum422/QMEE
+jrosenbaum422.vscreen
 
 XX. eKrysmanski: https://github.com/eKrysmanski/QMEE
 eKrysmanski.vscreen
