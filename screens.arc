@@ -38,7 +38,6 @@ ullrich-k.vscreen
 SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
 
 jrosenbaum422: https://github.com/jrosenbaum422/QMEE
-jrosenbaum422.vscreen
 
 XX. eKrysmanski: https://github.com/eKrysmanski/QMEE
 eKrysmanski.vscreen
@@ -60,6 +59,7 @@ cdaucoin: https://github.com/cdaucoin/QMEE
 cdaucoin.vscreen
 
 Yasmin-9: https://github.com/Yasmin-9/QMEE
+Yasmin-9.vscreen
 
 gauthamvk: https://github.com/gauthamvk/QMEE
 gauthamvk.vscreen
@@ -69,6 +69,5 @@ MattJaan.vscreen
 
 macned3: https://github.com/macned3/QMEE
 
-sarahhlivingston: https://github.com/sarahhlivingston/QMEE
 
 repos.list: repos.txt

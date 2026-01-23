@@ -15,7 +15,7 @@ autopipeR = defined
 
 assignment_two_part_one.Rout: assignment_two_part_one.R
 
-assignment_two_part_two.Rout: assignment_two_part_two.R
+assignment_two_part_two.Rout: assignment_two_part_two.R assignment_two_part_one.Rout
 
 ######################################################################
 
