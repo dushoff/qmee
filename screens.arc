@@ -27,7 +27,7 @@ ItsGuno.vscreen
 XX. atyker: https://github.com/atyker/QMEE
 atyker.vscreen
 
-sux21: https://github.com/sux21/QMEE
+XX. sux21: https://github.com/sux21/QMEE
 
 haydensimm: https://github.com/haydensimm/QMEE
 haydensimm.vscreen
@@ -35,7 +35,8 @@ haydensimm.vscreen
 XX. ullrich-k: https://github.com/ullrich-k/QMEE
 ullrich-k.vscreen
 
-SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
+XX. SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
+SiyaoLibeta.vscreen
 
 jrosenbaum422: https://github.com/jrosenbaum422/QMEE
 
@@ -68,6 +69,7 @@ MattJaan: https://github.com/MattJaan/QMEE
 MattJaan.vscreen
 
 macned3: https://github.com/macned3/QMEE
-
+tangtanguo: https://github.com/tangtanguo/QMEE
+tangtanguo.vscreen
 
 repos.list: repos.txt

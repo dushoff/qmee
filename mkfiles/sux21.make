@@ -12,6 +12,9 @@ vim_session:
 
 ## week_1_assignment/week_1.Rout: week_1_assignment/week_1.R
 
+## week_2_assignment/data_cleaning.Rout: week_2_assignment/data_cleaning.R
+## week_2_assignment/read_clean_data.Rout: week_2_assignment/read_clean_data.R
+
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)

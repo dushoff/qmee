@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for Li Siyao
 
 current: target
 -include target.mk
@@ -11,7 +11,11 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard scripts/*.R)
 autopipeR = defined
+
+## scripts/data_checking_w2.Rout: scripts/data_checking_w2.R
+## scripts/analysis_w2.Rout: scripts/analysis_w2.R
 
 ######################################################################
 
