@@ -1,4 +1,3 @@
-XX. p24: https://github.com/bbolker/QMEE_private_2024.git
 
 XX. esingurcan: https://github.com/esingurcan/QMEE
 
@@ -69,6 +68,7 @@ MattJaan: https://github.com/MattJaan/QMEE
 MattJaan.vscreen
 
 macned3: https://github.com/macned3/QMEE
+
 tangtanguo: https://github.com/tangtanguo/QMEE
 tangtanguo.vscreen
 

@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Sanjana
+## This is a _linked_ (mkfile) Makefile for Danielle
 
 current: target
 -include target.mk
@@ -11,10 +11,11 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard scripts/*.R *.md *.rmd)
 autopipeR = defined
 
-## Assignment2a.Rout: Assignment2a.R
-## Assignment2b.Rout: Assignment2b.R
+## scripts/clean_steroidogenesis.Rout: scripts/clean_steroidogenesis.R
+## scripts/analyse_steroigogenesis_2024.Rout: scripts/analyse_steroigogenesis_2024.R
 
 ######################################################################
 

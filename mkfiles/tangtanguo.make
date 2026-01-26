@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Sanjana
+## This is a _linked_ (mkfile) Makefile for Tangtang
 
 current: target
 -include target.mk
@@ -11,10 +11,14 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Ignore += *.html *.rds
 autopipeR = defined
 
-## Assignment2a.Rout: Assignment2a.R
-## Assignment2b.Rout: Assignment2b.R
+QMEE_Assignment2_ExaminingMyData_TangTang.html: QMEE_Assignment2_ExaminingMyData_TangTang.rmd
+	$(knithtml)
+## QMEE_Assignment2_ReadingRDSFile_TangTang.Rout: QMEE_Assignment2_ReadingRDSFile_TangTang.R
+
+## QMEE_TangTangAssignment1_09Jan2026.Rout:
 
 ######################################################################
 
