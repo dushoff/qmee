@@ -27,6 +27,7 @@ XX. atyker: https://github.com/atyker/QMEE
 atyker.vscreen
 
 XX. sux21: https://github.com/sux21/QMEE
+learn_popgen: https://github.com/sux21/learn_popgen
 
 haydensimm: https://github.com/haydensimm/QMEE
 haydensimm.vscreen
