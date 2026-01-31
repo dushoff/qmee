@@ -22,6 +22,10 @@ Ignore += *.html
 ## Assignment_2_Separate_Plot_Script.Rmd
 ## Assignment_3_Script.html: Assignment_3_Script.Rmd
 
+Assignment_3_Script.tangle.Rout: Assignment_3_Script.tangle.r
+	$(rHere)
+	
+
 ######################################################################
 
 ### Makestuff
@@ -40,6 +44,8 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/pipeR.mk
+-include makestuff/simpleR.mk
+-include makestuff/rmd.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
