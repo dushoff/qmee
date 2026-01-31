@@ -23,6 +23,7 @@ Ignore += Ass*/*.html
 
 ## Assignment_Week_1/README.Rmd
 
+## Data_Visualization_W3.Rout: Data_Visualization_W3.R
 
 ## Did lots of debugging
 a1.r: Assignment_Week_1/Assignment1.Rmd

@@ -11,12 +11,16 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.Rmd *.rmd)
+autopipeR = defined
+autoknit = defined
 
 Ignore += *.html
 ## Assignment_1_Script.html: Assignment_1_Script.Rmd 2025-01-20_181758_KILLIFISH_RESPIROMETRY1_JAN2.txt
 
-autopipeR = defined
-autoknit = defined
+## Assignment_1_Script.Rmd
+## Assignment_2_Cleaning_Data_Script.Rmd
+## Assignment_2_Separate_Plot_Script.Rmd
+## Assignment_3_Script.html: Assignment_3_Script.Rmd
 
 ######################################################################
 

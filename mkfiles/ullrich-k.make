@@ -17,6 +17,9 @@ autoknit = defined
 Ignore += *.html
 
 ## Assignment1_Bio708.html: Assignment1_Bio708.Rmd
+## Assignment2_File1_Bio708.html: Assignment2_File1_Bio708.Rmd
+## Assignment3_Bio708.html: Assignment3_Bio708.Rmd
+Assignment3_Bio708.html: Assignment2_File1_Bio708.html Assignment2_File2_Bio708.html
 
 ######################################################################
 

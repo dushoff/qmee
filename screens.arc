@@ -1,4 +1,6 @@
 
+XX. GiancarloFarruggia: https://github.com/GiancarloFarruggia/QMEE
+
 XX. esingurcan: https://github.com/esingurcan/QMEE
 
 sanjana-2699: https://github.com/sanjana-2699/BIO-708
@@ -29,7 +31,7 @@ atyker.vscreen
 XX. sux21: https://github.com/sux21/QMEE
 learn_popgen: https://github.com/sux21/learn_popgen
 
-haydensimm: https://github.com/haydensimm/QMEE
+XX. haydensimm: https://github.com/haydensimm/QMEE
 haydensimm.vscreen
 
 XX. ullrich-k: https://github.com/ullrich-k/QMEE
@@ -65,7 +67,7 @@ Yasmin-9.vscreen
 gauthamvk: https://github.com/gauthamvk/QMEE
 gauthamvk.vscreen
 
-MattJaan: https://github.com/MattJaan/QMEE
+XX. MattJaan: https://github.com/MattJaan/QMEE
 MattJaan.vscreen
 
 macned3: https://github.com/macned3/QMEE
