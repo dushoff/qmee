@@ -1,5 +1,6 @@
 
 XX. GiancarloFarruggia: https://github.com/GiancarloFarruggia/QMEE
+GiancarloFarruggia.vscreen
 
 XX. esingurcan: https://github.com/esingurcan/QMEE
 
@@ -11,7 +12,8 @@ mollyfuzhu-stack.vscreen
 
 MalvaCerealis: https://github.com/MalvaCerealis/QMEE
 
-JezDalm: https://github.com/JezDalm/QMEE
+XX. JezDalm: https://github.com/JezDalm/QMEE
+JezDalm.vscreen
 
 XX. izip27: https://github.com/izip27/QMEE
 izip27.vscreen
@@ -19,7 +21,7 @@ izip27.vscreen
 XX. acalexe: https://github.com/acalexe/QMEE
 acalexe.vscreen
 
-victoriamaya: https://github.com/victoriamaya/QMEE
+XX. victoriamaya: https://github.com/victoriamaya/QMEE
 victoriamaya.vscreen
 
 XX. ItsGuno: https://github.com/ItsGuno/QMEE2026
@@ -40,12 +42,14 @@ ullrich-k.vscreen
 XX. SiyaoLibeta: https://github.com/SiyaoLibeta/QMEE
 SiyaoLibeta.vscreen
 
-jrosenbaum422: https://github.com/jrosenbaum422/QMEE
+XX. jrosenbaum422: https://github.com/jrosenbaum422/QMEE
+jrosenbaum422.vscreen
 
 XX. eKrysmanski: https://github.com/eKrysmanski/QMEE
 eKrysmanski.vscreen
 
-nemari1: https://github.com/nemari1/QMEE
+XX. nemari1: https://github.com/nemari1/QMEE
+nemari1.vscreen
 
 XX. Khyla-WM: https://github.com/Khyla-WM/QMEE
 Khyla-WM.vscreen
@@ -53,18 +57,18 @@ Khyla-WM.vscreen
 XX. nitachan: https://github.com/nitachan/QMEE
 nitachan.vscreen
 
-ThindAnmol: https://github.com/ThindAnmol/QMEE
+XX. ThindAnmol: https://github.com/ThindAnmol/QMEE
 ThindAnmol.vscreen
 
 ighalo-north: https://github.com/ighalo-north/QMEE
 
-cdaucoin: https://github.com/cdaucoin/QMEE
+XX. cdaucoin: https://github.com/cdaucoin/QMEE
 cdaucoin.vscreen
 
 Yasmin-9: https://github.com/Yasmin-9/QMEE
 Yasmin-9.vscreen
 
-gauthamvk: https://github.com/gauthamvk/QMEE
+XX. gauthamvk: https://github.com/gauthamvk/QMEE
 gauthamvk.vscreen
 
 XX. MattJaan: https://github.com/MattJaan/QMEE
@@ -74,5 +78,7 @@ macned3: https://github.com/macned3/QMEE
 
 tangtanguo: https://github.com/tangtanguo/QMEE
 tangtanguo.vscreen
+
+XX. sarahhlivingston: https://github.com/sarahhlivingston/QMEE
 
 repos.list: repos.txt

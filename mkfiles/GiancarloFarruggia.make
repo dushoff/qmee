@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Iman Nemar
+## This is a _linked_ (mkfile) Makefile for Giancarlo
 
 current: target
 -include target.mk
@@ -6,21 +6,14 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
-data/cleaned: | data
-	$(mkdir)
-
-data:
-	$(mkdir)
-
-Assignment2_DataCleaning.Rout: Assignment2_DataCleaning.R | data/cleaned
-Assignment3_IN.Rout: Assignment3_IN.R Assignment2_DataCleaning.Rout
+qmee_assignment_3_gf.Rout: qmee_assignment_3_gf.R
 
 ######################################################################
 

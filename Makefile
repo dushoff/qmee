@@ -17,6 +17,9 @@ screen_session: screens.update
 
 Ignore += screenlog.32
 
+vmtupdate:
+	perl -pi -e 's/"vmt"/"vmt README.md"/g' */Makefile
+
 ######################################################################
 
 Sources += repos.txt
