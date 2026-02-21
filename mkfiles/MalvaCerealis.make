@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for C Colangelo (MalvaCerealis)
 
 current: target
 -include target.mk
@@ -6,12 +6,14 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
+
+## Assignment2.1-CleaningIncompleteSurveyData.Rout: Assignment2.1-CleaningIncompleteSurveyData.R
 
 ######################################################################
 
