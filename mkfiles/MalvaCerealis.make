@@ -14,6 +14,7 @@ Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
 ## Assignment2.1-CleaningIncompleteSurveyData.Rout: Assignment2.1-CleaningIncompleteSurveyData.R
+cleandatascript.Rout: cleandatascript.R Assignment2.1-CleaningIncompleteSurveyData.Rout
 
 ######################################################################
 

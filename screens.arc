@@ -7,13 +7,13 @@ XX. esingurcan: https://github.com/esingurcan/QMEE
 sanjana-2699: https://github.com/sanjana-2699/BIO-708
 sanjana-2699.vscreen
 
-mollyfuzhu-stack: https://github.com/mollyfuzhu-stack/QMEE
+XX. mollyfuzhu-stack: https://github.com/mollyfuzhu-stack/QMEE
 mollyfuzhu-stack.vscreen
 
 XX. MalvaCerealis: https://github.com/MalvaCerealis/QMEE
 
+Jezreel
 XX. JezDalm: https://github.com/JezDalm/QMEE
-JezDalm.vscreen
 
 XX. izip27: https://github.com/izip27/QMEE
 izip27.vscreen
@@ -30,6 +30,7 @@ ItsGuno.vscreen
 XX. atyker: https://github.com/atyker/QMEE
 atyker.vscreen
 
+Su Xingyuan
 XX. sux21: https://github.com/sux21/QMEE
 learn_popgen: https://github.com/sux21/learn_popgen
 
