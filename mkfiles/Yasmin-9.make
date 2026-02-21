@@ -19,6 +19,8 @@ Assignment_2/scripts/script_1.Rout: Assignment_2/scripts/script_1.R
 
 Assignment_2/scripts/script_2.Rout: Assignment_2/scripts/script_2.R Assignment_2/scripts/script_1.Rout
 
+## Assignment_4/Assignment_4_discussion.pdf: README.md
+
 ######################################################################
 
 ### Makestuff

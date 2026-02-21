@@ -66,7 +66,7 @@ ighalo-north: https://github.com/ighalo-north/QMEE
 XX. cdaucoin: https://github.com/cdaucoin/QMEE
 cdaucoin.vscreen
 
-Yasmin-9: https://github.com/Yasmin-9/QMEE
+XX. Yasmin-9: https://github.com/Yasmin-9/QMEE
 Yasmin-9.vscreen
 
 XX. gauthamvk: https://github.com/gauthamvk/QMEE
