@@ -17,6 +17,8 @@ autopipeR = defined
 ## scripts/clean_steroidogenesis.Rout: scripts/clean_steroidogenesis.R
 ## scripts/analyse_steroigogenesis_2024.Rout: scripts/analyse_steroigogenesis_2024.R
 
+## assignment_4.pdf: README.md
+
 ######################################################################
 
 ### Makestuff

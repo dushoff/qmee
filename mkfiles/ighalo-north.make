@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for Keren Ighalo
 
 current: target
 -include target.mk
@@ -6,12 +6,16 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard *.txt)
 autopipeR = defined
+
+## assignment4_statphil.txt: README.md
+## assignment5.txt
 
 ######################################################################
 

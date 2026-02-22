@@ -10,7 +10,7 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard *.R *.md *.rmd *.txt)
 autopipeR = defined
 
 ## Assignment2.1-CleaningIncompleteSurveyData.Rout: Assignment2.1-CleaningIncompleteSurveyData.R

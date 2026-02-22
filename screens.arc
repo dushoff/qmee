@@ -4,7 +4,7 @@ GiancarloFarruggia.vscreen
 
 XX. esingurcan: https://github.com/esingurcan/QMEE
 
-sanjana-2699: https://github.com/sanjana-2699/BIO-708
+XX. sanjana-2699: https://github.com/sanjana-2699/BIO-708
 sanjana-2699.vscreen
 
 XX. mollyfuzhu-stack: https://github.com/mollyfuzhu-stack/QMEE
@@ -61,7 +61,7 @@ nitachan.vscreen
 XX. ThindAnmol: https://github.com/ThindAnmol/QMEE
 ThindAnmol.vscreen
 
-ighalo-north: https://github.com/ighalo-north/QMEE
+XX. ighalo-north: https://github.com/ighalo-north/QMEE
 
 XX. cdaucoin: https://github.com/cdaucoin/QMEE
 cdaucoin.vscreen
@@ -77,7 +77,7 @@ MattJaan.vscreen
 
 macned3: https://github.com/macned3/QMEE
 
-tangtanguo: https://github.com/tangtanguo/QMEE
+XX. tangtanguo: https://github.com/tangtanguo/QMEE
 tangtanguo.vscreen
 
 XX. sarahhlivingston: https://github.com/sarahhlivingston/QMEE

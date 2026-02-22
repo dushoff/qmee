@@ -20,6 +20,9 @@ QMEE_Assignment2_ExaminingMyData_TangTang.html: QMEE_Assignment2_ExaminingMyData
 
 ## QMEE_TangTangAssignment1_09Jan2026.Rout:
 
+## QMEE_Assignment4_StatisticalPhilosophy_TangTang.pdf: README.md
+
+
 ######################################################################
 
 ### Makestuff

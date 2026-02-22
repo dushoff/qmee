@@ -13,7 +13,8 @@ vim_session:
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
-qmee_assignment_3_gf.Rout: qmee_assignment_3_gf.R
+## qmee_assignment_3_gf.Rout: qmee_assignment_3_gf.R
+## qmee_assignment_5_gf.pdf: README.md
 
 ######################################################################
 

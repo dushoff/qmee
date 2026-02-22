@@ -16,6 +16,9 @@ autopipeR = defined
 ## Assignment2a.Rout: Assignment2a.R
 ## Assignment2b.Rout: Assignment2b.R
 
+## Assignment4.pdf: README.md
+## Assignment5.pdf
+
 ######################################################################
 
 ### Makestuff
