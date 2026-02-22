@@ -6,11 +6,12 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard Assignments/*.R)
 autopipeR = defined
 
 data/cleaned: | data
@@ -19,8 +20,13 @@ data/cleaned: | data
 data:
 	$(mkdir)
 
-Assignment2_DataCleaning.Rout: Assignment2_DataCleaning.R | data/cleaned
-Assignment3_IN.Rout: Assignment3_IN.R Assignment2_DataCleaning.Rout
+Assignment2_DataCleaning.Rout: Assignments/Assignment2_DataCleaning.R | data/cleaned
+	$(pipeR)
+
+Assignment3_IN.Rout: Assignments/Assignment3_IN.R Assignment2_DataCleaning.Rout
+	$(pipeR)
+
+## Assignments/QMEE_Assignment_5_IN.pdf: README.md
 
 ######################################################################
 
