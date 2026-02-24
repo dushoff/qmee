@@ -17,6 +17,8 @@ autopipeR = defined
 ## assignment4_statphil.txt: README.md
 ## assignment5.txt
 
+assignment6.Rout: assignment6.R clean_raw_alan.Rout
+
 ######################################################################
 
 ### Makestuff
