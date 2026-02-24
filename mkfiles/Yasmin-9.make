@@ -11,7 +11,8 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
-Sources += $(wildcard Ass*/*/*.R *.md *.rmd)
+Sources += $(wildcard Ass*/*.R)
+Sources += $(wildcard Ass*/*/*.R)
 
 autopipeR = defined
 
@@ -20,6 +21,9 @@ Assignment_2/scripts/script_1.Rout: Assignment_2/scripts/script_1.R
 Assignment_2/scripts/script_2.Rout: Assignment_2/scripts/script_2.R Assignment_2/scripts/script_1.Rout
 
 ## Assignment_4/Assignment_4_discussion.pdf: README.md
+
+Assignment_6/model_script.Rout: Assignment_6/model_script.R Assignment_6/cleanup_script.Rout
+Assignment_6/cleanup_script.Rout: Assignment_6/cleanup_script.R
 
 ######################################################################
 
