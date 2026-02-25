@@ -20,6 +20,9 @@ Assignment_2/Assignment_2_.Rout: Assignment_2/Assignment_2_.R
 Assignment_2/Assignment_2_RDS_script.Rout: Assignment_2/Assignment_2_RDS_script.R
 	$(rThere)
 
+Assignment_6/Assignment_6_script.Rout: Assignment_6/Assignment_6_script.R
+	$(rThere)
+
 ######################################################################
 
 ### Makestuff
@@ -38,6 +41,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/simpleR.mk
+-include makestuff/pipeR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
