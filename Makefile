@@ -7,6 +7,12 @@ current: target
 
 ######################################################################
 
+mirrors += projects26
+
+projects26.filemerge: projects26.md
+
+######################################################################
+
 ## screens.mk: screens.list makestuff/lmk.pl
 
 vim_session: 
@@ -68,6 +74,7 @@ makestuff:
 -include makestuff/listdir.mk
 -include makestuff/screendir.mk
 -include makestuff/mkfiles.mk
+-include makestuff/mirror.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
