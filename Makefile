@@ -9,6 +9,7 @@ current: target
 
 mirrors += projects26
 
+Sources += $(wildcard *.md)
 projects26.filemerge: projects26.md
 
 ######################################################################
