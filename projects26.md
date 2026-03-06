@@ -48,3 +48,7 @@ projects26/guoBatConflict.pdf
 Lots of open questions about what they're measuring. She could also be encouraged to think more carefully about the source of conflict.
 
 projects26/ighaloFatal.pdf
+Cool project. Data description not very clear; hopefully can be fixed for 13th.
+
+projects26/suMR.pdf
+I've always been fascinated by mark-recapture stuff. It can't really work without strong assumptions, I think
