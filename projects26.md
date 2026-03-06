@@ -20,11 +20,9 @@ How do fungi with evolved resistance grow at different temperatures?
 Your questions about comparing by strain or across samples should be framed first as scientific questions. What is your main hypothesis or measure of interest?
 
 projects26/chanASD.pdf
-
 I'm a little curious about how they have knockouts and non-knockouts within a litter of mice. They want to see how genetic knockouts respond to auditory stimuli using waveforms (seems very complicated).
 
 projects26/tykerLungs.pdf
-
 semi-synthetic clinical dataset about biopsy procedures, diagnoses and outcomes
 
 projects26/dalmiedaAFx.pdf
@@ -34,7 +32,19 @@ Q: Can you explain further about “five biparental crosses (n = 536)”. Are th
 projects26/dobrikCytochrome.pdf
 Fish toxicology; does processing make oxyQ more or less toxic? Not super-clearly explained, and not super-clear the nature of the data (lots of different measurements), but some seem tractable.
 
-colangelo: did not really do the assignment
+projects26/colangeloForest.pdf
+did not really do the assignment. TALK to Ben about reaching out
 
-bsataHeterogeneity/bsataHeterogeneity.pdf
+projects26/bsataHeterogeneity.pdf
 Even given that she doesn't want to work on this, her description seems weirdly dodgy
+
+projects26/krysATproteome.pdf
+Tricky from a statPhil point of view. Makes no effort to tackle the questions, and is presumably just planning to use established pipelines.
+
+projects26/krishnaPersevere.pdf
+Not a ton of detail about variables, etc. Conceptually pretty interesting.
+
+projects26/guoBatConflict.pdf
+Lots of open questions about what they're measuring. She could also be encouraged to think more carefully about the source of conflict.
+
+projects26/ighaloFatal.pdf
