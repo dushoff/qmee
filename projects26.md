@@ -15,7 +15,6 @@ projects26/nemarMicrofibers.pdf
 Also says too simple!
 
 projects26/farrugiaTriazole.pdf
-
 How do fungi with evolved resistance grow at different temperatures?
 Your questions about comparing by strain or across samples should be framed first as scientific questions. What is your main hypothesis or measure of interest?
 
@@ -52,3 +51,14 @@ Cool project. Data description not very clear; hopefully can be fixed for 13th.
 
 projects26/suMR.pdf
 I've always been fascinated by mark-recapture stuff. It can't really work without strong assumptions, I think
+
+projects26/liOxytocin.pdf
+
+projects26/livingstonMalaria.pdf
+
+projects26/aftabjahaniPlatelets.pdf
+* No
+
+Albina lungs
+
+Giancarlo AFx
