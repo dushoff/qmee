@@ -20,6 +20,9 @@ Assignment2/Assignment2_1.Rout: Assignment2/Assignment2_1.R
 Assignment2/Assignment2_2.Rout: Assignment2/Assignment2_2.R
 	$(rThere)
 
+Assignment6/Assignment6.Rout: Assignment6/Assignment6.R
+	$(rThere)
+
 ######################################################################
 
 ### Makestuff

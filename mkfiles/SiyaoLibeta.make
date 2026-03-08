@@ -15,7 +15,8 @@ Sources += $(wildcard scripts/*.R)
 autopipeR = defined
 
 ## scripts/data_checking_w2.Rout: scripts/data_checking_w2.R
-## scripts/analysis_w2.Rout: scripts/analysis_w2.R
+## scripts/data_checking_w2.Rout: scripts/data_checking_w2.R
+## scripts/analysis_w6.Rout: scripts/analysis_w6.R
 
 ######################################################################
 
