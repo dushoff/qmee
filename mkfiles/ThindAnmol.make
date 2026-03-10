@@ -6,7 +6,7 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
@@ -18,6 +18,8 @@ autopipeR = defined
 Assignment1.Rout: Assignment1.R | Data/Clean
 Data/Clean: | Data
 	$(mkdir)
+
+## Content is in scripts/ and documents/
 
 Data:
 	$(mkdir)
