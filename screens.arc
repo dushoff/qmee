@@ -1,7 +1,6 @@
+######################################################################
 
-XX. BAT_CMR: https://github.com/sux21/BAT-CMR
-
-----------------------------------------------------------------------
+projects.md
 
 XX. GiancarloFarruggia: https://github.com/GiancarloFarruggia/QMEE
 GiancarloFarruggia.vscreen
