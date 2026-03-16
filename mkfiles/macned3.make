@@ -19,6 +19,10 @@ autopipeR = defined
 
 ## assignment_4.pdf: README.md
 
+## A6
+PFOS_lm_.Rout: scripts/PFOS_lm_.R
+	$(pipeR)
+
 ######################################################################
 
 ### Makestuff

@@ -78,7 +78,7 @@ gauthamvk.vscreen
 XX. MattJaan: https://github.com/MattJaan/QMEE
 MattJaan.vscreen
 
-macned3: https://github.com/macned3/QMEE
+XX. macned3: https://github.com/macned3/QMEE
 
 XX. tangtanguo: https://github.com/tangtanguo/QMEE
 tangtanguo.vscreen
