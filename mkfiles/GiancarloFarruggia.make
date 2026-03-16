@@ -15,6 +15,7 @@ autopipeR = defined
 
 ## qmee_assignment_3_gf.Rout: qmee_assignment_3_gf.R
 ## qmee_assignment_5_gf.pdf: README.md
+## qmee_assignment_7_gf.Rout: qmee_assignment_7_gf.R
 
 ######################################################################
 
