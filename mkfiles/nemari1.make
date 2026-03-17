@@ -28,6 +28,9 @@ Assignment3_IN.Rout: Assignments/Assignment3_IN.R Assignment2_DataCleaning.Rout
 
 ## Assignments/QMEE_Assignment_5_IN.pdf: README.md
 
+Assignment7.Rout: Assignments/QMEE_Assignment7_IN.R
+	$(pipeR)
+
 ######################################################################
 
 ### Makestuff

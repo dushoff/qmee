@@ -15,6 +15,7 @@ autopipeR = defined
 
 ## Assignment1.Rout: Assignment1.R
 ## Assignment3.Rout: Assignment3.R
+## Assignment7.Rout: Assignment7.R
 
 ######################################################################
 
