@@ -21,6 +21,9 @@ Ignore += *.html
 ## Assignment3_Bio708.html: Assignment3_Bio708.Rmd
 Assignment3_Bio708.html: Assignment2_File1_Bio708.html Assignment2_File2_Bio708.html
 
+## Assignment7_Bio708.html: Assignment7_Bio708.Rmd
+Assignment7_Bio708.html: Assignment2_File1_Bio708.html Assignment2_File2_Bio708.html
+
 ######################################################################
 
 ### Makestuff
