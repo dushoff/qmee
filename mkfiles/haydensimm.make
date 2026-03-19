@@ -10,6 +10,8 @@ vim_session:
 
 ######################################################################
 
+pullup: ; git lfs fetch
+
 Sources += $(wildcard *.R *.md *.Rmd *.rmd)
 autopipeR = defined
 autoknit = defined
@@ -24,7 +26,8 @@ Ignore += *.html
 
 Assignment_3_Script.tangle.Rout: Assignment_3_Script.tangle.r
 	$(rHere)
-	
+
+## Assignment_7_Script.html: Assignment_7_Script.Rmd
 
 ######################################################################
 

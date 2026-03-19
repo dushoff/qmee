@@ -20,6 +20,9 @@ assignment_1.Rout: hw1Jan9/scripts/assignment_1.R
 ## hw3Jan23/scripts/assignment_3.Rout: hw3Jan23/scripts/assignment_3.R
 ## hw5Feb6/Assignment_5.pdf
 
+assignment_7.Rout: hw7Feb27/scripts/assignment_7.R
+	$(pipeR)
+
 ######################################################################
 
 ### Makestuff

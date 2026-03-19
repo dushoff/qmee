@@ -6,7 +6,7 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
@@ -18,6 +18,7 @@ Ignore += RFactorScore.csv
 RFactorScore.csv: scripts/week_one.Rout ;
 ## scripts/week_one.Rout: scripts/week_one.R
 ## scripts/week_three.Rout: scripts/week_three.R
+## scripts/week_seven.Rout: scripts/week_seven.R
 
 ######################################################################
 
