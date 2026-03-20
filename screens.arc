@@ -1,6 +1,37 @@
-######################################################################
+Xingyuan who? Mark-recapture
+XX. BAT_CMR: https://github.com/sux21/BAT-CMR
 
-projects.md
+Keren, Jack, Fatal attraction
+XX. artlight: https://github.com/ighalo-north/artlight
+
+Danielle, Katie, PFAS
+XX. TRES_Fun: https://github.com/macned3/TRES_Fun
+
+Isabella, Yasmin, C, Khyla
+XX. Roots: https://github.com/izip27/roots
+
+Andrei, Gautham 
+XX. Perseverance: https://github.com/acalexe/Pers_W_E
+
+Sarah, Sanjana, cnidarians!
+XX. plasticity: https://github.com/sarahhlivingston/Multivariate_TxS_Anemone
+
+Evan, Matt? what?
+XX. protein: https://github.com/eKrysmanski/BC_validation_project
+
+Siyao, Nita, Maya mouse brain knockouts
+XX. Brain: https://github.com/SiyaoLibeta/Cntnap2_OXT
+
+Molly, Hayden, what?
+XX. https://github.com/mollyfuzhu-stack/Final_Project_Molly_Hayden
+
+Courtney, Anmol, who? self-esteem
+XX. https://github.com/cdaucoin/ERIP_IndDiff
+
+Albina, Ali, lung clinic
+XX. https://github.com/atyker/ILD_Biopsy/
+
+######################################################################
 
 XX. GiancarloFarruggia: https://github.com/GiancarloFarruggia/QMEE
 GiancarloFarruggia.vscreen

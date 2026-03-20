@@ -1,5 +1,5 @@
-## This is a _linked_ (mkfile) Makefile for Bat capture
-## Xingyuan, Jezreel, Giancarlo
+## This is a _linked_ (mkfile) Makefile for PFAS
+## Daniella, Katie
 
 current: target
 -include target.mk
