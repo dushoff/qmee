@@ -6,11 +6,13 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 ## BIo708_assignment1_NC.Rout: BIo708_assignment1_NC.R
+BIO708-assignment7.Rout: BIO708-assignment7.R BIO708_assignment2_datacleaning_NC.Rout
+
 
 ######################################################################
 
