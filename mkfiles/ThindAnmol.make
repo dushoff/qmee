@@ -24,6 +24,8 @@ Data/Clean: | Data
 Data:
 	$(mkdir)
 
+scripts/Assignment7.Rout: scripts/Assignment7.R scripts/Assignment3CLMMs.Rout
+
 ######################################################################
 
 ### Makestuff
