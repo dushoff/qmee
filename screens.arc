@@ -22,14 +22,14 @@ XX. protein: https://github.com/eKrysmanski/BC_validation_project
 Siyao, Nita, Maya mouse brain knockouts
 XX. Brain: https://github.com/SiyaoLibeta/Cntnap2_OXT
 
-Molly, Hayden, what?
-XX. https://github.com/mollyfuzhu-stack/Final_Project_Molly_Hayden
+Molly, Hayden, toxicity
+XX. toxicity: https://github.com/mollyfuzhu-stack/Final_Project_Molly_Hayden
 
 Courtney, Anmol, who? self-esteem
-XX. https://github.com/cdaucoin/ERIP_IndDiff
+XX. esteem: https://github.com/cdaucoin/ERIP_IndDiff
 
 Albina, Ali, lung clinic
-XX. https://github.com/atyker/ILD_Biopsy/
+XX. lungs: https://github.com/atyker/ILD_Biopsy/
 
 ######################################################################
 
