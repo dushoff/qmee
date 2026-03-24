@@ -31,6 +31,9 @@ XX. esteem: https://github.com/cdaucoin/ERIP_IndDiff
 Albina, Ali, lung clinic
 XX. lungs: https://github.com/atyker/ILD_Biopsy/
 
+Tang-Tang, Iman
+XX. parental: https://github.com/tangtanguo/QMEE_FinalProject_TangTangIman
+
 ######################################################################
 
 XX. GiancarloFarruggia: https://github.com/GiancarloFarruggia/QMEE

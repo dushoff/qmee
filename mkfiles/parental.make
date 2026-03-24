@@ -1,5 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Fatal attraction
-## Keren, Jack
+## This is a _linked_ (mkfile) Makefile for Tang-Tang and Iman bat parental care
 
 current: target
 -include target.mk
@@ -7,7 +6,7 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt README.md journal.md"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
