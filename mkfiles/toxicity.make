@@ -1,5 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Bat capture
-## Xingyuan, Jezreel, Giancarlo
+## This is a _linked_ (mkfile) Makefile for …
 
 current: target
 -include target.mk
@@ -13,8 +12,6 @@ vim_session:
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
-
-## scripts/
 
 ######################################################################
 
