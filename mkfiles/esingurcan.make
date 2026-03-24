@@ -6,7 +6,7 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
@@ -32,6 +32,14 @@ a1.r: Assignment_Week_1/Assignment1.Rmd
 a1.Rout: a1.R
 	$(pipeR)
 
+Ignore += Week7
+Week7/%.R: Week7 ;
+Week7:
+	(ln -s Week*7* $@ && ls $@/*.R) || (rm -f $@ && false)
+
+Week7/GLM.Rout: Week7/GLM.R
+	$(rThere)
+
 ######################################################################
 
 ### Makestuff
@@ -49,6 +57,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
+-include makestuff/simpleR.mk
 -include makestuff/pipeR.mk
 -include makestuff/rmd.mk
 

@@ -18,6 +18,9 @@ autopipeR = defined
 Assignment_3/plots.Rout: Assignment_3/plots.R Assignment_3/cleaned_malaria_data.rds
 	$(rThere)
 
+Assignment_7/Assignment_7.Rout: Assignment_7/Assignment_7.R
+	$(rThere)
+
 ######################################################################
 
 ### Makestuff

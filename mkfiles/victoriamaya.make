@@ -15,7 +15,8 @@ Sources += $(wildcard Home*/*.R)
 autopipeR = defined
 
 ## Homework3/Assignment_3.Rout: Homework3/Assignment_3.R
-## Homework3/Assignment_3.Rout: Homework3/Assignment_3.R
+
+## Homework7/Assignment_7.Rout: Homework7/Assignment_7.R
 
 ######################################################################
 
