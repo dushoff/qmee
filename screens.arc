@@ -25,7 +25,7 @@ XX. Brain: https://github.com/SiyaoLibeta/Cntnap2_OXT
 Molly, Hayden, toxicity
 XX. toxicity: https://github.com/mollyfuzhu-stack/Final_Project_Molly_Hayden
 
-Courtney, Anmol, who? self-esteem
+Courtney, Anmol, Esin self-esteem
 XX. esteem: https://github.com/cdaucoin/ERIP_IndDiff
 
 Albina, Ali, lung clinic
