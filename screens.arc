@@ -16,7 +16,7 @@ XX. Perseverance: https://github.com/acalexe/Pers_W_E
 Sarah, Sanjana, cnidarians!
 XX. plasticity: https://github.com/sarahhlivingston/Multivariate_TxS_Anemone
 
-Evan, Matt? what?
+Evan, Matt 
 XX. protein: https://github.com/eKrysmanski/BC_validation_project
 
 Siyao, Nita, Maya mouse brain knockouts
