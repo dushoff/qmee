@@ -17,7 +17,7 @@ projects26.filemerge: projects26.md
 ## screens.mk: screens.list makestuff/lmk.pl
 
 vim_session: 
-	bash -cl "vmt screens.list"
+	bash -ic "vmt screens.list"
 
 screen_session: screens.update
 	$(MAKE) $(vscreens)
