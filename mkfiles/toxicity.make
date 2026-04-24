@@ -1,4 +1,5 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for toxicity
+## Hayden and Molly
 
 current: target
 -include target.mk
@@ -10,8 +11,17 @@ vim_session:
 
 ######################################################################
 
+## Submission
+
+## Final_Write_Up.pdf
+Analysis/MANCOVA.html: Analysis/MANCOVA.Rmd
+Analysis/RDA.html: Analysis/RDA.Rmd
+
+######################################################################
+
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
+autoknit = defined
 
 ######################################################################
 
