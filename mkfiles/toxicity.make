@@ -13,7 +13,7 @@ vim_session:
 
 ## Submission
 
-## Final_Write_Up.pdf
+## Final_Write_Up.pdf ##
 Analysis/MANCOVA.html: Analysis/MANCOVA.Rmd
 Analysis/RDA.html: Analysis/RDA.Rmd
 
