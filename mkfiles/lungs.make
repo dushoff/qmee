@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for lungs (Ali and Albina)
 
 current: target
 -include target.mk
@@ -9,6 +9,8 @@ vim_session:
 	bash -cl "vmt README.md"
 
 ######################################################################
+
+sum: Final_Report.pdf SLB_Presentation_Final.pdf
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
