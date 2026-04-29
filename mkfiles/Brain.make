@@ -15,7 +15,7 @@ autopipeR = defined
 
 ######################################################################
 
-sub: BIO708_Final_writeup_SL_NC_MP.pdf BIO708 Project presentation.pdf
+sub: BIO708 Project presentation.pdf BIO708_Final_writeup_SL_NC_MP_hide_comments.pdf
 
 ######################################################################
 
