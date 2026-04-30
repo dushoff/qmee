@@ -16,6 +16,10 @@ autopipeR = defined
 
 ######################################################################
 
+sub: TRES_Fun Presentation.pdf TRES_Fun_Writeup.pdf metabolite_pfas_tables.pdf
+
+######################################################################
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)

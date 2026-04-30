@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for perseverance
 
 current: target
 -include target.mk
@@ -12,6 +12,10 @@ vim_session:
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
+
+######################################################################
+
+sub: Bio708writeup.pdf ##
 
 ######################################################################
 
