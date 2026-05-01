@@ -14,6 +14,8 @@ vim_session:
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
+sub: roots_presentation.pdf roots_report.pdf
+
 ######################################################################
 
 ### Makestuff

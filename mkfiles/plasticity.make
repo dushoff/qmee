@@ -10,6 +10,8 @@ vim_session:
 
 ######################################################################
 
+sub: BIO-708_report.pdf
+
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
