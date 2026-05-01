@@ -16,6 +16,7 @@ autopipeR = defined
 ######################################################################
 
 ## ~/screens/org/Planning/stash/batSibs.pdf
+sub: PO-Conflict&SibComp_QMEEPresentation.pdf QMEE_FinalReport_GuoNemar.pdf
 
 ######################################################################
 

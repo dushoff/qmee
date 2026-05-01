@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for PFAS
+## This is a _linked_ (mkfile) Makefile for PFAS (TRES)
 ## Daniella, Katie
 
 current: target
