@@ -1,6 +1,7 @@
 ## This is a _linked_ (mkfile) Makefile for Fatal attraction
 ## Keren, Jack
 
+
 current: target
 -include target.mk
 
@@ -10,6 +11,8 @@ vim_session:
 	bash -cl "vmt README.md journal.md"
 
 ######################################################################
+
+## ALAN writeup artlight bio708.pdf
 
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
