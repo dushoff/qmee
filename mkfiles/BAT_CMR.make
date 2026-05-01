@@ -11,6 +11,7 @@ vim_session:
 
 ######################################################################
 
+pdf: BIO708_Presentation.pdf QMEE_BAT_CMR_Paper.pdf QMEE_project_proposal.pdf
 Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
