@@ -17,6 +17,7 @@ autopipeR = defined
 ######################################################################
 
 sub: TRES_Fun Presentation.pdf TRES_Fun_Writeup.pdf metabolite_pfas_tables.pdf
+## Booeshaghi AS, Pachter L. 2021. Normalization of single-cell RNA-seq counts by log(x + 1) or log(1 + x). Bioinformatics. 37(15):2223–2224. doi:10.1093/bioinformatics/btab085
 
 ######################################################################
 
